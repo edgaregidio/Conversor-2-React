@@ -1,3 +1,23 @@
 .swap {
   cursor: pointer;
 }
+
+.container {
+  padding: 40px;
+}
+
+.card {
+  background: #9c27b0;
+  border: 0px;
+  color: white ;
+}
+
+.quantCor {
+  color: #aeea00;
+}
+
+.dataCor{
+  color: #4fc3f7;
+  font-size: 18px;
+  font-weight: bold ;
+}
